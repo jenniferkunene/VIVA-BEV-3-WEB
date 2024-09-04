@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "build":"sass styles.scss > styles.css"
+  },
   "dependencies": {
     "@splidejs/splide": "^4.1.4"
   }
